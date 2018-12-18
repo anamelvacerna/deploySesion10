@@ -1,0 +1,10 @@
+En el LazyLoading todos lo componentes tiene su routing
+y su estrategia
+
+-- appCustomPreLoader
+
+ng build --prod
+
+
+npm install -g source-map-explorer
+
